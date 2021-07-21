@@ -52,7 +52,7 @@ ground.shapeColor=rgb(219 ,177 ,26)
   boy = createSprite(50, 180, 20, 50);
   boy.addAnimation("running", boy_running);
   boy.addAnimation("collided", boy_collided);
-  boy.scale = 0.2;
+  boy.scale = 0.1;
 //My attempt to  make ground image move
   //ground = createSprite(camera.position.x+150, 180, 400, 20);
     
